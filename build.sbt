@@ -1,4 +1,4 @@
-name := """real-world-example-project"""
+name := """olas-play-app"""
 
 version := "1.0"
 
